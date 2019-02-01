@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import InputText from '../InputText/InputText.jsx';
-import Buttons from '../Button/Button';
+import Button from '../Button/Button';
 
 
 class Contents extends Component {    
@@ -11,10 +11,10 @@ class Contents extends Component {
                 <InputText />
                 <div style={{display:'flex',padding: '24px',justifyContent:'center'}}>
                     <div style={{padding: '0px 10px'}}>
-                        <Buttons value="Penelusuran Google" />
+                        <Button value="Penelusuran Google" />
                     </div>
                     <div style={{padding: '0px 10px'}}>
-                        <Buttons value="Saya Lagi Beruntung" />
+                        <Button value="Saya Lagi Beruntung" />
                     </div>
                 </div>
               
