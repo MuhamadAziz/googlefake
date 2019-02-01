@@ -1,0 +1,11 @@
+.btnSearch{
+   	width: 560px;
+    height: 42px;
+    border: none;
+    font-size: 14px; 
+    margin: 25px;
+    background-repeat: no-repeat;
+    background-size: 26px;
+    background-position: 97%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
